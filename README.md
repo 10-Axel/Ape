@@ -1,2 +1,2 @@
 # Ape
-This is my first git Repo.
+This is my first Git Repo.
